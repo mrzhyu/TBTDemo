@@ -6,6 +6,13 @@ package cn.zhang.yu;
  */
 public class Hell {
     public static void main(String[] a) {
+
+
+
         System.out.println("hell zhangyu");
+
+
+
+
     }
 }
